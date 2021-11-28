@@ -39,8 +39,3 @@ def load_people(): # Loading the data by making a function as mentioned in the p
 
 if __name__ == '__main__':
     pass
-
-
-
-# do not add code here (outside the main block).
-
