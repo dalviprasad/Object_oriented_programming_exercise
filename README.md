@@ -13,4 +13,4 @@ Method used
 
 Technology: Python
 
-Project Description: The dataset used for this project is available. This project was build to understand the basic of object oriented programming. The word file named 'Instructions' contains the entire requirement of this activity. 
+Project Description: The dataset used for this project is available. This project was build to understand the basic of object oriented programming. The word file named 'Instructions' contains the entire requirement of this activity. 'a2_task1.py', 'a2_task2.py' & 'a2_task3.py' are the required codes.
